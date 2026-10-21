@@ -1,0 +1,19 @@
+The architecture
+ Streamlit UI (voice in/out, upload, dashboard, chat)
+          │
+       FastAPI  ──────────►  Langfuse (traces every step)
+          │
+   LangGraph Coordinator
+     │        │         │
+ Sourcing  Screening  Scheduling      ← separate agents (A2A later)
+   Agent     Agent      Agent
+     │        │         │
+ ┌───┴────────┴─────────┴───┐
+ │ Tools via MCP: Calendar, │
+ │ Email, File storage      │
+ └───┬──────────────────┬───┘
+  Postgres/SQLite     Vector store (Chroma)
+  (Text-to-SQL)       (RAG over resumes)
+
+ HF models: LLM · embeddings · Whisper (STT) · TTS
+ 
