@@ -1,0 +1,19 @@
+Chandani Chawla
+Senior Devops Engineer | 7 years of experience
+
+SUMMARY
+Devops professional with 7 years of experience building production systems.
+
+SKILLS
+Docker, AWS, Kubernetes
+
+EXPERIENCE
+Razorpay - Senior Devops Engineer (5+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Docker, AWS, Kubernetes in a team of 11 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bilaspur

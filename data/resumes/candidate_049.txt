@@ -1,0 +1,19 @@
+Ikshita Biswas
+Senior Frontend Engineer | 7 years of experience
+
+SUMMARY
+Frontend professional with 7 years of experience building production systems.
+
+SKILLS
+Next.js, CSS, TypeScript, JavaScript, React
+
+EXPERIENCE
+Zoho - Senior Frontend Engineer (5+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Next.js, CSS, TypeScript in a team of 9 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Uluberia

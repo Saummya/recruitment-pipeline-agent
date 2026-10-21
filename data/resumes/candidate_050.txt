@@ -1,0 +1,19 @@
+Nakul Sarma
+Senior Data Engineer | 9 years of experience
+
+SUMMARY
+Data professional with 9 years of experience building production systems.
+
+SKILLS
+Pandas, Airflow, Python, SQL, PyTorch
+
+EXPERIENCE
+Freshworks - Senior Data Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Pandas, Airflow, Python in a team of 12 engineers.
+
+Zoho - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Pudukkottai

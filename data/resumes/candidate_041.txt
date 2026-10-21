@@ -1,0 +1,19 @@
+Bhavika Sampath
+Devops Engineer | 3 years of experience
+
+SUMMARY
+Devops professional with 3 years of experience building production systems.
+
+SKILLS
+Terraform, Linux, Docker, Kubernetes
+
+EXPERIENCE
+Freshworks - Devops Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Terraform, Linux, Docker in a team of 11 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bhatpara

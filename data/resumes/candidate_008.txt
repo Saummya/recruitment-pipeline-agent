@@ -1,0 +1,19 @@
+Chaaya Pathak
+Frontend Engineer | 3 years of experience
+
+SUMMARY
+Frontend professional with 3 years of experience building production systems.
+
+SKILLS
+Next.js, Vue, TypeScript, CSS, React
+
+EXPERIENCE
+Swiggy - Frontend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Next.js, Vue, TypeScript in a team of 6 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Coimbatore

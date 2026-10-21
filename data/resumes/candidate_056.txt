@@ -1,0 +1,19 @@
+Manthan Banik
+Frontend Engineer | 2 years of experience
+
+SUMMARY
+Frontend professional with 2 years of experience building production systems.
+
+SKILLS
+TypeScript, JavaScript, React, Next.js, CSS
+
+EXPERIENCE
+Zomato - Frontend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with TypeScript, JavaScript, React in a team of 10 engineers.
+
+Paytm - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Ballia

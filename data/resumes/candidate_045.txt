@@ -1,0 +1,19 @@
+Ekansh Keer
+Senior Backend Engineer | 9 years of experience
+
+SUMMARY
+Backend professional with 9 years of experience building production systems.
+
+SKILLS
+Kafka, Spring Boot, PostgreSQL
+
+EXPERIENCE
+Wipro - Senior Backend Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Kafka, Spring Boot, PostgreSQL in a team of 6 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Jamshedpur

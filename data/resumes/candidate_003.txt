@@ -1,0 +1,19 @@
+Yashasvi Bala
+Data Engineer | 4 years of experience
+
+SUMMARY
+Data professional with 4 years of experience building production systems.
+
+SKILLS
+SQL, Pandas, Python
+
+EXPERIENCE
+TCS - Data Engineer (2+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with SQL, Pandas, Python in a team of 9 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bongaigaon

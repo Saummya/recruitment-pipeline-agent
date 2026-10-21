@@ -1,0 +1,19 @@
+Umang Bhatt
+Data Engineer | 0 years of experience
+
+SUMMARY
+Data professional with 0 years of experience building production systems.
+
+SKILLS
+Pandas, SQL, Airflow
+
+EXPERIENCE
+Infosys - Data Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Pandas, SQL, Airflow in a team of 10 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Jaipur

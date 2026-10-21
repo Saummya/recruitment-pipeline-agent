@@ -1,0 +1,19 @@
+Yashica Issac
+Backend Engineer | 1 years of experience
+
+SUMMARY
+Backend professional with 1 years of experience building production systems.
+
+SKILLS
+Redis, FastAPI, Kafka, PostgreSQL, Spring Boot
+
+EXPERIENCE
+Swiggy - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Redis, FastAPI, Kafka in a team of 8 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Dindigul

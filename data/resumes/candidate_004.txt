@@ -1,0 +1,19 @@
+Thomas Sen
+Senior Devops Engineer | 8 years of experience
+
+SUMMARY
+Devops professional with 8 years of experience building production systems.
+
+SKILLS
+Terraform, Docker, AWS
+
+EXPERIENCE
+Swiggy - Senior Devops Engineer (6+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Terraform, Docker, AWS in a team of 5 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Chennai

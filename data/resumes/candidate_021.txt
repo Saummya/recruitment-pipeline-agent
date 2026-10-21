@@ -1,0 +1,19 @@
+Zayan Apte
+Senior Backend Engineer | 9 years of experience
+
+SUMMARY
+Backend professional with 9 years of experience building production systems.
+
+SKILLS
+PostgreSQL, Node.js, FastAPI
+
+EXPERIENCE
+Swiggy - Senior Backend Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PostgreSQL, Node.js, FastAPI in a team of 8 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Jorhat

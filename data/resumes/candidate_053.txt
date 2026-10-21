@@ -1,0 +1,19 @@
+Hemal Jani
+Senior Frontend Engineer | 7 years of experience
+
+SUMMARY
+Frontend professional with 7 years of experience building production systems.
+
+SKILLS
+Vue, Next.js, TypeScript, JavaScript
+
+EXPERIENCE
+Zomato - Senior Frontend Engineer (5+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Vue, Next.js, TypeScript in a team of 6 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Dibrugarh

@@ -1,0 +1,19 @@
+Guneet Bedi
+Devops Engineer | 4 years of experience
+
+SUMMARY
+Devops professional with 4 years of experience building production systems.
+
+SKILLS
+Linux, AWS, Terraform
+
+EXPERIENCE
+Zoho - Devops Engineer (2+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Linux, AWS, Terraform in a team of 8 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Tiruchirappalli

@@ -1,0 +1,19 @@
+Aryan Maharaj
+Backend Engineer | 0 years of experience
+
+SUMMARY
+Backend professional with 0 years of experience building production systems.
+
+SKILLS
+Spring Boot, Java, Django, PostgreSQL, Python
+
+EXPERIENCE
+TCS - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spring Boot, Java, Django in a team of 4 engineers.
+
+Freshworks - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Rajahmundry

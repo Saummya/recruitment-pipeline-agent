@@ -1,0 +1,19 @@
+Sudiksha Aggarwal
+Backend Engineer | 3 years of experience
+
+SUMMARY
+Backend professional with 3 years of experience building production systems.
+
+SKILLS
+Spring Boot, FastAPI, Java, Redis
+
+EXPERIENCE
+Paytm - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spring Boot, FastAPI, Java in a team of 12 engineers.
+
+Infosys - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Orai

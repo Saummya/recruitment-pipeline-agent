@@ -1,0 +1,19 @@
+Meghana Shanker
+Backend Engineer | 1 years of experience
+
+SUMMARY
+Backend professional with 1 years of experience building production systems.
+
+SKILLS
+PostgreSQL, Node.js, Java, Redis, Kafka
+
+EXPERIENCE
+TCS - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PostgreSQL, Node.js, Java in a team of 10 engineers.
+
+Infosys - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bilaspur

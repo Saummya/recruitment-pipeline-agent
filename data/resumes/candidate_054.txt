@@ -1,0 +1,19 @@
+Pallavi Malhotra
+Frontend Engineer | 4 years of experience
+
+SUMMARY
+Frontend professional with 4 years of experience building production systems.
+
+SKILLS
+JavaScript, Next.js, TypeScript
+
+EXPERIENCE
+Zoho - Frontend Engineer (2+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with JavaScript, Next.js, TypeScript in a team of 4 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Delhi

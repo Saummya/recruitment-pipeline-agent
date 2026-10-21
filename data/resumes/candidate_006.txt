@@ -1,0 +1,19 @@
+Lajita Chatterjee
+Senior Backend Engineer | 9 years of experience
+
+SUMMARY
+Backend professional with 9 years of experience building production systems.
+
+SKILLS
+FastAPI, Java, Django, Kafka, Node.js
+
+EXPERIENCE
+Paytm - Senior Backend Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with FastAPI, Java, Django in a team of 9 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Hapur

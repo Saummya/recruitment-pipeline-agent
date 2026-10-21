@@ -1,0 +1,19 @@
+Azad Balan
+Senior Frontend Engineer | 8 years of experience
+
+SUMMARY
+Frontend professional with 8 years of experience building production systems.
+
+SKILLS
+JavaScript, Next.js, React, TypeScript, CSS
+
+EXPERIENCE
+Wipro - Senior Frontend Engineer (6+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with JavaScript, Next.js, React in a team of 4 engineers.
+
+Razorpay - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bellary

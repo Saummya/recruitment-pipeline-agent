@@ -1,0 +1,19 @@
+Dalbir Khosla
+Senior Frontend Engineer | 8 years of experience
+
+SUMMARY
+Frontend professional with 8 years of experience building production systems.
+
+SKILLS
+TypeScript, Next.js, React
+
+EXPERIENCE
+Razorpay - Senior Frontend Engineer (6+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with TypeScript, Next.js, React in a team of 4 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Guwahati

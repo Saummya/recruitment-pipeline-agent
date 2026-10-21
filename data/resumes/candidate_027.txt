@@ -1,0 +1,19 @@
+Ekapad Walia
+Senior Frontend Engineer | 10 years of experience
+
+SUMMARY
+Frontend professional with 10 years of experience building production systems.
+
+SKILLS
+TypeScript, Next.js, CSS
+
+EXPERIENCE
+Zomato - Senior Frontend Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with TypeScript, Next.js, CSS in a team of 6 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Warangal

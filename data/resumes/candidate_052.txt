@@ -1,0 +1,19 @@
+Hredhaan Dugal
+Senior Data Engineer | 5 years of experience
+
+SUMMARY
+Data professional with 5 years of experience building production systems.
+
+SKILLS
+Spark, Pandas, PyTorch, Airflow, Python
+
+EXPERIENCE
+Zomato - Senior Data Engineer (3+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spark, Pandas, PyTorch in a team of 5 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Ichalkaranji

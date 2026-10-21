@@ -1,0 +1,19 @@
+William Lanka
+Senior Devops Engineer | 10 years of experience
+
+SUMMARY
+Devops professional with 10 years of experience building production systems.
+
+SKILLS
+Docker, CI/CD, AWS, Linux
+
+EXPERIENCE
+TCS - Senior Devops Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Docker, CI/CD, AWS in a team of 9 engineers.
+
+Freshworks - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Mira-Bhayandar

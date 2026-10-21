@@ -1,0 +1,19 @@
+Guneet Bhat
+Frontend Engineer | 2 years of experience
+
+SUMMARY
+Frontend professional with 2 years of experience building production systems.
+
+SKILLS
+JavaScript, React, CSS
+
+EXPERIENCE
+Zoho - Frontend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with JavaScript, React, CSS in a team of 7 engineers.
+
+Freshworks - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Sonipat

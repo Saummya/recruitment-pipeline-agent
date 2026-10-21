@@ -1,0 +1,19 @@
+Dominic Kakar
+Senior Backend Engineer | 8 years of experience
+
+SUMMARY
+Backend professional with 8 years of experience building production systems.
+
+SKILLS
+Spring Boot, Kafka, Django
+
+EXPERIENCE
+Wipro - Senior Backend Engineer (6+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spring Boot, Kafka, Django in a team of 7 engineers.
+
+Zoho - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Rajpur Sonarpur

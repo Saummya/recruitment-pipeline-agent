@@ -1,0 +1,19 @@
+Warjas Gaba
+Senior Backend Engineer | 10 years of experience
+
+SUMMARY
+Backend professional with 10 years of experience building production systems.
+
+SKILLS
+Spring Boot, Java, Kafka
+
+EXPERIENCE
+Zomato - Senior Backend Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spring Boot, Java, Kafka in a team of 8 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Haridwar

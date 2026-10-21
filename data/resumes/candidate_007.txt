@@ -1,0 +1,19 @@
+Caleb Sharaf
+Senior Backend Engineer | 5 years of experience
+
+SUMMARY
+Backend professional with 5 years of experience building production systems.
+
+SKILLS
+Spring Boot, Django, Kafka, Redis
+
+EXPERIENCE
+Zomato - Senior Backend Engineer (3+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spring Boot, Django, Kafka in a team of 10 engineers.
+
+Zoho - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Burhanpur

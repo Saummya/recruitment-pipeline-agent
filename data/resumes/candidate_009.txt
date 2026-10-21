@@ -1,0 +1,19 @@
+Vedant Mann
+Backend Engineer | 1 years of experience
+
+SUMMARY
+Backend professional with 1 years of experience building production systems.
+
+SKILLS
+FastAPI, PostgreSQL, Spring Boot
+
+EXPERIENCE
+Freshworks - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with FastAPI, PostgreSQL, Spring Boot in a team of 12 engineers.
+
+Zoho - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Muzaffarpur

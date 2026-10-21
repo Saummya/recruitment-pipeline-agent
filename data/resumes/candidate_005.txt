@@ -1,0 +1,19 @@
+Nachiket Kale
+Backend Engineer | 3 years of experience
+
+SUMMARY
+Backend professional with 3 years of experience building production systems.
+
+SKILLS
+PostgreSQL, Spring Boot, Java
+
+EXPERIENCE
+Flipkart - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PostgreSQL, Spring Boot, Java in a team of 9 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Kota

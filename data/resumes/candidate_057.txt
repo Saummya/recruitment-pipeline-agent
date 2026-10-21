@@ -1,0 +1,19 @@
+Qushi Datta
+Senior Data Engineer | 9 years of experience
+
+SUMMARY
+Data professional with 9 years of experience building production systems.
+
+SKILLS
+Pandas, Airflow, PyTorch, Python
+
+EXPERIENCE
+Zomato - Senior Data Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Pandas, Airflow, PyTorch in a team of 8 engineers.
+
+Wipro - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Aizawl

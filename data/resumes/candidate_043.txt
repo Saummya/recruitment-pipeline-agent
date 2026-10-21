@@ -1,0 +1,19 @@
+Dipta Bhandari
+Data Engineer | 3 years of experience
+
+SUMMARY
+Data professional with 3 years of experience building production systems.
+
+SKILLS
+Pandas, scikit-learn, Spark, PyTorch
+
+EXPERIENCE
+Razorpay - Data Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Pandas, scikit-learn, Spark in a team of 11 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bhimavaram

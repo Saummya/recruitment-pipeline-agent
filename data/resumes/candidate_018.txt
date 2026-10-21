@@ -1,0 +1,19 @@
+Mohini Pathak
+Backend Engineer | 3 years of experience
+
+SUMMARY
+Backend professional with 3 years of experience building production systems.
+
+SKILLS
+PostgreSQL, Kafka, Java
+
+EXPERIENCE
+Freshworks - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PostgreSQL, Kafka, Java in a team of 6 engineers.
+
+Infosys - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Durgapur

@@ -1,0 +1,19 @@
+Ojas Ray
+Senior Data Engineer | 5 years of experience
+
+SUMMARY
+Data professional with 5 years of experience building production systems.
+
+SKILLS
+Python, SQL, PyTorch, Airflow, Spark
+
+EXPERIENCE
+TCS - Senior Data Engineer (3+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Python, SQL, PyTorch in a team of 10 engineers.
+
+Freshworks - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Ongole

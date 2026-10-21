@@ -1,0 +1,19 @@
+Kamala Pant
+Frontend Engineer | 2 years of experience
+
+SUMMARY
+Frontend professional with 2 years of experience building production systems.
+
+SKILLS
+React, Next.js, JavaScript, TypeScript
+
+EXPERIENCE
+Infosys - Frontend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with React, Next.js, JavaScript in a team of 9 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Shimoga

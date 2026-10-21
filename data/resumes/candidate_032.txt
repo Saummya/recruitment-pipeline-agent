@@ -1,0 +1,19 @@
+Ekavir Varkey
+Senior Data Engineer | 9 years of experience
+
+SUMMARY
+Data professional with 9 years of experience building production systems.
+
+SKILLS
+PyTorch, Python, Pandas, Airflow
+
+EXPERIENCE
+Freshworks - Senior Data Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PyTorch, Python, Pandas in a team of 12 engineers.
+
+Razorpay - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Alwar

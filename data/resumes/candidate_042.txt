@@ -1,0 +1,19 @@
+Chaman Kalla
+Senior Devops Engineer | 9 years of experience
+
+SUMMARY
+Devops professional with 9 years of experience building production systems.
+
+SKILLS
+Linux, Docker, CI/CD, AWS, Kubernetes
+
+EXPERIENCE
+Zoho - Senior Devops Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Linux, Docker, CI/CD in a team of 4 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Adoni

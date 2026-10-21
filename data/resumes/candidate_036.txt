@@ -1,0 +1,19 @@
+Yuvraj Handa
+Devops Engineer | 3 years of experience
+
+SUMMARY
+Devops professional with 3 years of experience building production systems.
+
+SKILLS
+Linux, Docker, CI/CD
+
+EXPERIENCE
+Flipkart - Devops Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Linux, Docker, CI/CD in a team of 11 engineers.
+
+Paytm - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Jorhat

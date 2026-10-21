@@ -1,0 +1,19 @@
+Onveer Walla
+Backend Engineer | 3 years of experience
+
+SUMMARY
+Backend professional with 3 years of experience building production systems.
+
+SKILLS
+Django, Redis, Node.js, Java, Python
+
+EXPERIENCE
+Flipkart - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Django, Redis, Node.js in a team of 11 engineers.
+
+Wipro - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Ujjain

@@ -1,0 +1,19 @@
+Urvashi Kibe
+Senior Devops Engineer | 10 years of experience
+
+SUMMARY
+Devops professional with 10 years of experience building production systems.
+
+SKILLS
+Kubernetes, CI/CD, AWS, Linux, Docker
+
+EXPERIENCE
+Zomato - Senior Devops Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Kubernetes, CI/CD, AWS in a team of 9 engineers.
+
+Freshworks - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Vellore

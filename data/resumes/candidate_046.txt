@@ -1,0 +1,19 @@
+Balveer Bumb
+Senior Data Engineer | 9 years of experience
+
+SUMMARY
+Data professional with 9 years of experience building production systems.
+
+SKILLS
+Spark, scikit-learn, SQL, Python, Pandas
+
+EXPERIENCE
+Zomato - Senior Data Engineer (7+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Spark, scikit-learn, SQL in a team of 8 engineers.
+
+TCS - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Ballia

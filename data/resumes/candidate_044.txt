@@ -1,0 +1,19 @@
+Dakshesh Trivedi
+Senior Frontend Engineer | 10 years of experience
+
+SUMMARY
+Frontend professional with 10 years of experience building production systems.
+
+SKILLS
+Vue, JavaScript, Next.js
+
+EXPERIENCE
+Infosys - Senior Frontend Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Vue, JavaScript, Next.js in a team of 7 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Gaya

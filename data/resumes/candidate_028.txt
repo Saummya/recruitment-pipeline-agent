@@ -1,0 +1,19 @@
+Noah Lanka
+Senior Frontend Engineer | 5 years of experience
+
+SUMMARY
+Frontend professional with 5 years of experience building production systems.
+
+SKILLS
+Vue, React, TypeScript, JavaScript
+
+EXPERIENCE
+Freshworks - Senior Frontend Engineer (3+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Vue, React, TypeScript in a team of 11 engineers.
+
+Infosys - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Rajpur Sonarpur

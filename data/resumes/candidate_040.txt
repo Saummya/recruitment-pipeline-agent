@@ -1,0 +1,19 @@
+Ladli Agate
+Backend Engineer | 3 years of experience
+
+SUMMARY
+Backend professional with 3 years of experience building production systems.
+
+SKILLS
+PostgreSQL, Python, Redis, Spring Boot
+
+EXPERIENCE
+Infosys - Backend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with PostgreSQL, Python, Redis in a team of 8 engineers.
+
+Swiggy - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bilaspur

@@ -1,0 +1,19 @@
+Veer Balay
+Data Engineer | 0 years of experience
+
+SUMMARY
+Data professional with 0 years of experience building production systems.
+
+SKILLS
+Airflow, SQL, scikit-learn, PyTorch, Python
+
+EXPERIENCE
+Infosys - Data Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Airflow, SQL, scikit-learn in a team of 5 engineers.
+
+Zomato - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Rewa

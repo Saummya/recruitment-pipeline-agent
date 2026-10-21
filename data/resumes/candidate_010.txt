@@ -1,0 +1,19 @@
+Lajita Mall
+Senior Data Engineer | 10 years of experience
+
+SUMMARY
+Data professional with 10 years of experience building production systems.
+
+SKILLS
+Python, Pandas, Spark, SQL
+
+EXPERIENCE
+Paytm - Senior Data Engineer (8+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Python, Pandas, Spark in a team of 12 engineers.
+
+Flipkart - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bharatpur

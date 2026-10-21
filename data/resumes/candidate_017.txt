@@ -1,0 +1,19 @@
+Yatin Yohannan
+Frontend Engineer | 3 years of experience
+
+SUMMARY
+Frontend professional with 3 years of experience building production systems.
+
+SKILLS
+CSS, React, Vue, JavaScript, Next.js
+
+EXPERIENCE
+Zoho - Frontend Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with CSS, React, Vue in a team of 5 engineers.
+
+Paytm - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Bhimavaram

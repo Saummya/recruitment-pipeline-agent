@@ -1,0 +1,19 @@
+Arya Shere
+Devops Engineer | 2 years of experience
+
+SUMMARY
+Devops professional with 2 years of experience building production systems.
+
+SKILLS
+Linux, CI/CD, AWS, Kubernetes
+
+EXPERIENCE
+Freshworks - Devops Engineer (1+ years)
+- Designed and shipped features used by thousands of users.
+- Worked with Linux, CI/CD, AWS in a team of 11 engineers.
+
+Paytm - Software Engineer
+- Improved performance and reliability of core services.
+
+EDUCATION
+B.Tech in Computer Science, Aurangabad
