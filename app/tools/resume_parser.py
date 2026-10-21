@@ -2,6 +2,7 @@
 import json
 import sys
 from pathlib import Path
+import re
 
 from pydantic import BaseModel, ValidationError
 from pypdf import PdfReader
@@ -40,10 +41,17 @@ def parse_resume(path: Path, retries: int = 1) -> ParsedResume:
     for attempt in range(retries + 1):
         raw = llm.invoke(PARSE_PROMPT.format(text=text)).content
         try:
-            return ParsedResume(**json.loads(raw))  # pydantic checks types and keys
+            parsed = ParsedResume(**json.loads(raw))
+            break
         except (json.JSONDecodeError, ValidationError):
             if attempt == retries:
                 raise
+
+    # Deterministic check: trust an explicit "N years of experience" over the model
+    match = re.search(r"(\d+)\s+years of experience", text, re.I)
+    if match:
+        parsed.years_experience = int(match.group(1))
+    return parsed
 
 
 if __name__ == "__main__":
