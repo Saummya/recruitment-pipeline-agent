@@ -66,7 +66,8 @@ def match_candidates(jd: str, k: int = 5, min_years: int = 0) -> list[dict]:
     id_list = ",".join(str(int(c)) for c in best)  # ints only, so safe to inline
     _, rows = run_query(
         f"SELECT id, name, current_role, years_experience, status FROM candidates "
-        f"WHERE id IN ({id_list}) AND years_experience >= {int(min_years)}"
+        f"WHERE id IN ({id_list}) AND years_experience >= {int(min_years)} "
+        f"AND status != 'rejected'"
     )
     results = []
     for cid, name, role, years, status in rows:

@@ -1,0 +1,40 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	router(router)
+	generate_sql(generate_sql)
+	run_sql(run_sql)
+	repair_sql(repair_sql)
+	explain(explain)
+	give_up(give_up)
+	match_node(match_node)
+	refuse(refuse)
+	chat(chat)
+	draft_outreach(draft_outreach)
+	approval(approval)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> router;
+	draft_outreach --> approval;
+	generate_sql --> run_sql;
+	repair_sql --> run_sql;
+	router -.-> chat;
+	router -. &nbsp;outreach&nbsp; .-> draft_outreach;
+	router -. &nbsp;sql&nbsp; .-> generate_sql;
+	router -. &nbsp;match&nbsp; .-> match_node;
+	router -. &nbsp;write&nbsp; .-> refuse;
+	run_sql -.-> explain;
+	run_sql -.-> give_up;
+	run_sql -.-> repair_sql;
+	approval --> __end__;
+	chat --> __end__;
+	explain --> __end__;
+	give_up --> __end__;
+	match_node --> __end__;
+	refuse --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc

@@ -151,27 +151,36 @@ EMAIL_PROMPT = """Write a short, friendly email (maximum 90 words) inviting {nam
 to a quick call about an opportunity. The recruiter's request was: "{request}".
 Use ONLY this background about the candidate and invent nothing else:
 {evidence}
-Start with "Subject:" on the first line. Sign off as "The Recruiting Team"."""
+Rules:
+- Start with "Subject:" on the first line.
+- Never use placeholders in square brackets such as [Company Name]. Say "our team" and "our open role" instead.
+- Sign off as "The Recruiting Team"."""
+
+def already_emailed() -> set:
+    outbox = ROOT / "data" / "outbox.jsonl"
+    if not outbox.exists():
+        return set()
+    return {json.loads(l)["candidate_id"] for l in outbox.read_text().splitlines() if l.strip()}
 
 
 def draft_outreach(state: AgentState):
-    matches = match_candidates(
-        state["question"], k=3, min_years=state.get("min_years", 0)
-    )
+    sent = already_emailed()
+    found = match_candidates(state["question"], k=10, min_years=state.get("min_years", 0))
+    matches = [m for m in found if m["candidate_id"] not in sent][:3]
     llm = get_llm()
     drafts = []
     for m in matches:
         _, rows = run_query(f"SELECT email FROM candidates WHERE id={int(m['candidate_id'])}")
-        body = llm.invoke(
-            EMAIL_PROMPT.format(
-                name=m["name"], role=m["role"], request=state["question"], evidence=m["evidence"]
-            )
-        ).content.strip()
+        prompt = EMAIL_PROMPT.format(
+            name=m["name"], role=m["role"], request=state["question"], evidence=m["evidence"]
+        )
+        body = llm.invoke(prompt).content.strip()
+        if re.search(r"\[[^\]]+\]", body):  # leftover placeholder: retry once
+            body = llm.invoke(prompt + "\n\nIMPORTANT: do not use any square brackets.").content.strip()
         drafts.append(
             {"candidate_id": m["candidate_id"], "name": m["name"], "email": rows[0][0], "body": body}
         )
     return {"matches": matches, "drafts": drafts}
-
 
 def approval(state: AgentState):
     drafts = state.get("drafts", [])
