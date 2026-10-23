@@ -1,0 +1,29 @@
+Module 6: The LangGraph
+Right now you have separate tools: ask_database(), match_candidates(), and the voice models. Module 6 turns them into one agent that decides what to do with each message.
+                         ┌─► generate_sql → run_sql ─► explain ──────┐
+                         │                    ↑  │ error             │
+                         │                    │  ▼                   │
+user ─► router ──────────┤               repair_sql  (max 2) → give_up│
+                         ├─► match_node ──────────────────────────────┼─► END
+                         ├─► draft_outreach → approval (human) ───────┤
+                         ├─► refuse (write requests) ─────────────────┤
+                         └─► chat ────────────────────────────────────┘
+Build order:
+Part	What	Time
+6A	Concepts	read
+6B	A tiny graph with no LLM, to learn the mechanics	15 min
+6C	State and router	30 min
+6D	Nodes wrapping your existing tools	30 min
+6E	The graph and the CLI	20 min
+6F	Human-in-the-loop approval	30 min
+6G	Router eval (harness engineering)	15 min
+6A: Concepts
+LangGraph models an agent as a graph that runs step by step:
+State: one shared dictionary that travels through the graph (question, SQL, rows, answer). Every step reads it and writes to it.
+Node: a Python function. It receives the state and returns only the keys it wants to change. LangGraph merges that into the state.
+Edge: “after node A, run node B”.
+Conditional edge: “after node A, call this function, and its return value picks the next node”. This is how routing and loops work.
+compile(): turns your definition into a runnable app. invoke(state) runs it.
+Checkpointer and thread_id: saves the state after every step, per conversation. Needed for pausing, resuming, and memory.
+interrupt(): pauses the graph and waits for a human. This is how approval steps work.
+Why not plain if/else functions? Graphs give you retries as loops, pause and resume, saved state, and a visible diagram. They also give Langfuse (Module 8) a natural step-by-step trace to record.
