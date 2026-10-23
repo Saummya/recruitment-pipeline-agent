@@ -6,3 +6,4 @@ __pycache__/
 data/*.db
 models/
 chroma_db/data/resumes_pdf/
+data/outbox.jsonl
